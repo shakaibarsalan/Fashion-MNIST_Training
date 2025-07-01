@@ -1,4 +1,4 @@
-```markdown
+
 # Fashion MNIST Multi-Class Classification with Feedforward Neural Network (PyTorch)
 
 This project implements a **feedforward neural network** using **PyTorch** for multi-class classification on the [Fashion MNIST](https://github.com/zalandoresearch/fashion-mnist) dataset. The model is trained and evaluated under different configurations to analyze the impact of varying the number of hidden layers and training epochs.
